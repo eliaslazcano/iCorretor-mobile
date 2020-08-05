@@ -1,0 +1,19 @@
+{
+  "name": "i-corretor",
+  "version": "1.0.22",
+  "description": "Soluções para o corretor de imóveis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Elias Lazcano Castro Neto",
+    "email": "elias304162@gmail.com",
+    "url": "https://suporte.i2br.com.br/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i2br-informatica/iCorretor-mobile.git"
+  },
+  "license": "MIT"
+}

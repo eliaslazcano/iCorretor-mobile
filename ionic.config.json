@@ -1,0 +1,7 @@
+{
+  "name": "i-corretor",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
