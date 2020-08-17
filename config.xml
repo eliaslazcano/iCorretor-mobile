@@ -12,6 +12,7 @@
     <plugin name="cordova-plugin-wkwebview-engine" spec="1.2.1" />
     <plugin name="cordova-plugin-wkwebviewxhrfix" spec="0.1.0" />
     <plugin name="cordova-plugin-inappbrowser" spec="3.2.0" />
+    <plugin name="phonegap-plugin-mobile-accessibility" spec="1.0.5" />
 
     <!-- preferencias iOS -->
     <preference name="target-device" value="universal" />
