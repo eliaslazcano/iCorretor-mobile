@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.net.conselho.app" version="1.0.38" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="br.net.conselho.app" version="1.0.39" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>i-Corretor</name>
     <description>Ferramentas do conselho para o corretor de imóveis</description>
     <author email="elias@i2br.com.br" href="https://i2br.com.br">Elias Lazcano Castro Neto</author>

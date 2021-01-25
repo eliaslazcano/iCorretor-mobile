@@ -1,6 +1,6 @@
 {
   "name": "i-corretor",
-  "version": "1.0.22",
+  "version": "1.0.39",
   "description": "Soluções para o corretor de imóveis",
   "main": "index.js",
   "scripts": {
