@@ -1,0 +1,1 @@
+.flip-enter-active,.flip-leave-active{transition-duration:.3s;transition-property:all;transition-timing-function:ease-out}.flip-enter,.flip-leave-to{transform:rotateY(90deg)}.flip-enter-to,.flip-leave{transform:rotateY(0)}
